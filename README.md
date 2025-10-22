@@ -67,3 +67,5 @@ Bot and Sybil accounts can manipulate rewards, submit fake bounties, and comprom
 ```bash
 git clone https://github.com/georgeonweb3/pond-bot-detection.git
 cd pond-bot-detection
+
+my pond profile URL: https://cryptopond.xyz/developer/082ee7de-6b60-11f0-a1f3-024775222cc3
